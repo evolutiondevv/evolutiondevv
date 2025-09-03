@@ -101,4 +101,4 @@ Web Development, Discord App Development, Full Stack Development
 <div align="center">
 <em>Open to collaborating on innovative projects in Full Stack Development, systems programming, and web development</em>
 </div> 
-# [Found Me](https://kartikpatidar.netlify.app)
+[Found Me](https://kartikpatidar.netlify.app)
