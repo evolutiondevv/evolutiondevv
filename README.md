@@ -92,7 +92,7 @@ Web Development, Discord App Development, Full Stack Development
 </div>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evolutiondevv&layout=pie)](https://github.com/evolutiondevv/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie"/>
 </div>
 
 ---
